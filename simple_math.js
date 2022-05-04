@@ -34,3 +34,16 @@ function multiplyFunction(multDigit1 , multDigit2) {
 }
 
 console.log(multiply);
+
+
+
+/*-------------------- divination -------------------*/
+
+let divination = divideFunction(8 , 2);
+
+function divideFunction(divideDigit1 , divideDigit2) {
+    let divide = divideDigit1 / divideDigit2;
+    return divide;
+}
+
+console.log(divination);
