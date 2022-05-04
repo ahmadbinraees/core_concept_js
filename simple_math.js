@@ -21,3 +21,16 @@ function subtractFunction(subDigit1 , subDigit2) {
 }
 
 console.log(minus);
+
+
+
+/*--------------------------- multiplication --------------------------*/
+
+let multiply = multiplyFunction(2 , 2);
+
+function multiplyFunction(multDigit1 , multDigit2) {
+    let multiplied = multDigit1 * multDigit2;
+    return multiplied;
+}
+
+console.log(multiply);
