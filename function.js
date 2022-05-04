@@ -1,4 +1,4 @@
-/* -----------------declare a function ---------------- */
+/* ----------------- declare a function ---------------- */
 
 function turnOn() {
     firstWork = "1- Get up ,";
