@@ -11,3 +11,6 @@ var personData = {
     }
 };
 console.log(personData);
+
+name = personData.fullName();
+console.log(name);
