@@ -32,5 +32,10 @@ var someUser = {
 
 console.log(someUser);
 
+// call function property from the object
 var userFullName = someUser.fullName();
 console.log(userFullName);
+
+// to see a value of object property
+var ageProperty = someUser.age;
+console.log("The age is:",ageProperty);
