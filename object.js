@@ -39,3 +39,7 @@ console.log(userFullName);
 // to see a value of object property
 var ageProperty = someUser.age;
 console.log("The age is:",ageProperty);
+
+// there is another way to get property value of an object
+var rollProperty = someUser["roll"];
+console.log("Some User Roll is:",rollProperty);
